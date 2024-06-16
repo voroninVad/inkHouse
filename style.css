@@ -317,6 +317,31 @@ header{
     color: #598d66;
 }
 
+.cart_btn:hover{
+    padding: 20px 60px;
+    width: 227px;
+    height: 65px;
+    background: #598d66;
+    color: #F4F6F5;
+}
+
+.cart_btn:active{
+    padding: 20px 60px;
+    width: 227px;
+    height: 65px;
+    background: #376b44;
+    color: #F4F6F5;
+}
+
+.cart_btn:focus{
+    border: 1px solid #598d66;
+    padding: 20px 60px;
+    width: 227px;
+    height: 65px;
+    background: #d4e8d9;
+    color: #598D66;
+}
+
 /*banner*/
 
 .banner{
