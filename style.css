@@ -227,8 +227,7 @@ header{
 
     display: flex;
     align-items: center;
-    justify-content: space-between;    
-    overflow-x: scroll;
+    justify-content: space-between; 
 }
 
 .item_panel {
@@ -891,12 +890,11 @@ footer{
     .reproductions{
         overflow: hidden;
     }
-    /* .items_panel{
+     .items_panel{
         overflow-x: scroll;
+        overflow-y: hidden;
     }
-    .item_panel{
-        flex-shrink: 0;
-    } */
+  
     .card{
         width: 290px;
         height: 514px;
